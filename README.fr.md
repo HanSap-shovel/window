@@ -55,7 +55,9 @@ Trois entrées. Chacune fonctionne.
 |---|---|---|---|
 | **Lecture calme** | [00-synthesis-fr.md](docs/persona/00-synthesis-fr.md) | 9 chapitres + conclusion | Première rencontre |
 | **Lecture comme un livre** | [09-book-fr.md](docs/persona/09-book-fr.md) | 17 chapitres | Jeunes lecteurs (ado – étudiants) |
-| **Lecture des fondations** | 01-worldview (KR seulement pour l'instant) | 11 sessions | Ceux qui veulent creuser profond |
+| **Lecture des fondations** | [01-worldview-fr.md](docs/persona/01-worldview-fr.md) | 11 sessions | Ceux qui veulent creuser profond |
+
+> *La version française de 01-worldview est pour l'instant un espace réservé — le siège reste volontairement vide. Elle renvoie au coréen original et invite à traduire. Ouvrez une Issue avec l'étiquette `translation`.*
 
 Prenez un mois pour lire si nécessaire. C'est même préférable.
 

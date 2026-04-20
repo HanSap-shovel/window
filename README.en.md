@@ -53,11 +53,11 @@ Three entrances. Any one is fine.
 
 | Entrance | Document | Length | For |
 |---|---|---|---|
-| **A quiet read** | [00-synthesis.md](docs/persona/00-synthesis.md) (KR) | 9 chapters + coda | First encounter |
-| **Read as a book** | [09-book.md](docs/persona/09-book.md) (KR) | 17 chapters | Young readers (teen–student) |
-| **Read the foundations** | [01-worldview.md](docs/persona/01-worldview.md) (KR) | 11 sessions | Those who want to dig deep |
+| **A quiet read** | [00-synthesis](docs/persona/00-synthesis-en.md) | 9 chapters + coda | First encounter |
+| **Read as a book** | [09-book](docs/persona/09-book-en.md) | 17 chapters | Young readers (teen–student) |
+| **Read the foundations** | [01-worldview](docs/persona/01-worldview-en.md) | 11 sessions | Those who want to dig deep |
 
-> *English translations are community-led. If you would like to translate, open an Issue with the `translation` label.*
+> *English versions of these three documents are currently placeholders — the seats are kept visibly empty. Each links to the Korean original and invites you to translate. Open an Issue with the `translation` label.*
 
 Take a month to read if needed. That is even better.
 
