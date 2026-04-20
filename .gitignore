@@ -1,0 +1,17 @@
+# Local tooling (not part of the public work)
+.bkit/
+.claude/
+docs/.bkit-memory.json
+docs/.pdca-status.json
+
+# Private drafts — author's unreleased raw material
+# Move to docs/persona/ manually when ready for incorporation.
+시작.txt
+새 텍스트 문서.txt
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*
